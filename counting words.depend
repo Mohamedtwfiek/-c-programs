@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522087527 source:c:\users\user\desktop\counting words\main.cpp
+	<iostream>
+	<fstream>
+
